@@ -13,7 +13,7 @@ This analysis looks at NYC bike sharing data as a baseline for viability of a si
 
 - The hightest number of trips is 5:00-6:00pm on Mondays, Tuesdays and Thursdays.
 
-- Of users that disclosed, males had the hightest usage rate, especially during work day commute hours.
+- Of users that disclosed, males had the highest usage rate, especially during work day commute hours.
 
 - A large number of males are subscribers and have the highest usage every day of the week compared to females and unknown.
 
@@ -27,8 +27,8 @@ This analysis looks at NYC bike sharing data as a baseline for viability of a si
 
   - Start areas are slightly more varied then stop locations.
  
- ![](Challenge/Images/starting_locations.png)    ![](Challenge/Images/ending_locations.png)  
- 
+ <img src="Challenge/Images/starting_locations.png" width = 500 height = 500>    <img src="Challenge/Images/ending_locations.png" width = 500 height = 500>   
+ Starting (left) and Ending (right) Location Maps
  ## Summary
  
 Most usage is from subscribers, a large portion of which are male. The highest rates of usage are during the work week and occur at morning and evening rush hours times.  On average, the checkout duration is between approximately 30 and 60 minutes during peak hours. Weekends are popular days across all gender groups with mid-day being a popular checkout time. Tourist areas may greatly affect the start and stop locations of the bikesharing business. 
@@ -52,6 +52,8 @@ General analysis may include:
   - What variables affect usage rate?
   
   - Is usage rate per bike a good indication of when service/repair may be needed?
+  
+  <img src="Challenge/Images/bike_repair.png" width = 650>
 
 ## Check out the story here:
 [Link to Tableau Viz](https://public.tableau.com/app/profile/hlea6947/viz/NYC_Citibike_Challenge_16603576932670/NYCCitiBike?publish=yes)
