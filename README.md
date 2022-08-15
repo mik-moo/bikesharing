@@ -61,6 +61,6 @@ General analysis may include:
 ### Dataset used/modified
 The trip duration datatype column was modified for this analysis (see NYC_Citibike_Challenge.ipynb) 
 
-[Original CitiBike Data](https://s3.amazonaws.com/tripdata/index.html)
+[Original CitiBike Data (201908-citibike-tripdata)](https://s3.amazonaws.com/tripdata/index.html)
 
 
