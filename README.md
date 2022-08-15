@@ -11,7 +11,7 @@ This analysis looks at NYC bike sharing data as a baseline for viability of a si
 
 - Most bikes are checked out for an average of approximately 30 minutes to an hour.
 
-- The hightest number of trips is 5:00-6:00pm on Mondays, Tuesdays and Thursdays.
+- The highest number of trips is 5:00-6:00pm on Mondays, Tuesdays and Thursdays.
 
 - Of users that disclosed, males had the highest usage rate, especially during work day commute hours.
 
@@ -57,3 +57,10 @@ General analysis may include:
 
 ## Check out the story here:
 [Link to Tableau Viz](https://public.tableau.com/app/profile/hlea6947/viz/NYC_Citibike_Challenge_16603576932670/NYCCitiBike?publish=yes)
+
+### Dataset used/modified
+The trip duration datatype column was modified for this analysis (see NYC_Citibike_Challenge.ipynb) 
+
+[Original CitiBike Data](https://s3.amazonaws.com/tripdata/index.html)
+
+
